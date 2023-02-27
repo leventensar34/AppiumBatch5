@@ -50,6 +50,8 @@ public class Homework_Task {
         Thread.sleep(2000);
         driver.closeApp();
 
+        //Task 91-74=17
+
 
     }
 }
